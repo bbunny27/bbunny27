@@ -3,7 +3,7 @@
 <p>- Aspiring Cybersecurity Professional</p>
 <h2>My Skills:</h2>
 <p>- Languages: Python, SQL, Web Dev (javascript, html, css), Web Hosting, Active Directory, Linux Server</p>
-<p>- Learning: Server hosting, Malware development (Python), Windows Server</p>
+<p>- Learning: Malware development (Python), Windows Server</p>
 <h2>Certifications:</h2>
 <p>- Working on my Google Cybersecurity profesional cert, then network+ next</p>
 <H2>Projects:</H2>
