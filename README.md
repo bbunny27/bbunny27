@@ -7,5 +7,6 @@
 <h2>Certifications:</h2>
 <p>- Working on my Google Cybersecurity profesional cert, then network+ next</p>
 <H2>Projects:</H2>
-<p><a href="https://github.com/bbunny27/MyWebsite">- Website Project</p>
+<a href="https://github.com/bbunny27/MyWebsite">- Website Project</a>
+<a href="https://github.com/bbunny27/pyencryptdecrypt">- Python Encryptor and Decryptor</a>
 
