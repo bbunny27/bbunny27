@@ -10,6 +10,5 @@
 <p></p><a href="https://github.com/bbunny27/MyWebsite">- Website Project</a></p>
 <p></p><a href="https://github.com/bbunny27/pyencryptdecrypt">- Python Encryptor and Decryptor</a></p>
 <p>-Active Directory on my home network</p>
-<p>-Azure Cloud and Sentinal SIEM tool setup</p>
 <p>-Python Packet Sniffer</p>
 
