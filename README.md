@@ -3,14 +3,16 @@
 <p>- Aspiring Cybersecurity Professional</p>
 <a href="https://leetcode.com/bbunny27/">My Leetcode Profile</a>
 <h2>My Skills:</h2>
-<p>- Languages/skills: Python, SQL, Web Dev (javascript, html, css), Web Hosting, Active Directory, Linux Server</p>
-<p>- Learning: Malware development (Python), Windows Server</p>
+<p>- Skills: </p>
+<p>- Applications: Windows, Linux, Ubuntu Server, Windows Server, Active Directory, Access, MySQL,  </p>
+<p>- Languages/skills: Python, SQL, HTML, CSSr</p>
+<p>- Learning: Malware development (Python)</p>
 <h2>Certifications/Learning:</h2>
-<p>- Working on my Google Cybersecurity profesional cert, then network+ next</p>
-<p>- Working on SIEM training and learning (ELK)</p>
+<p>- Working on my Google Cybersecurity profesional cert, then network+/sec+ next</p>
+<p>- Working on SIEM training and learning (ELKS)</p>
 <H2>Projects:</H2>
 <p></p><a href="https://github.com/bbunny27/MyWebsite">- Website Project</a></p>
 <p></p><a href="https://github.com/bbunny27/pyencryptdecrypt">- Python Encryptor and Decryptor</a></p>
-<p>-Active Directory on my home network</p>
+<p>-Active Directory Lab</p>
 <p>-Python Packet Sniffer</p>
 
