@@ -6,7 +6,7 @@
 <p>- Skills: Networking, Security, Troubleshooting, Communication, Problem-Solving </p>
 <p>- Applications: Windows, Linux, Ubuntu Server, Windows Server, Active Directory, Access, MySQL,  </p>
 <p>- Languages/skills: Python, SQL, HTML, CSS</p>
-<p>- Learning: Malware development (Python)</p>
+<p>- Learning: Malware development (Python), Unity and Blender</p>
 <h2>Certifications/Learning:</h2>
 <p>- Working on my Google Cybersecurity profesional cert, then network+/sec+ next</p>
 <p>- Working on SIEM training and learning (ELKS)</p>
