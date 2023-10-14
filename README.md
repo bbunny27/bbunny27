@@ -11,10 +11,10 @@
 <p>- Working on my Google Cybersecurity profesional cert, then network+/sec+ next</p>
 <p>- Working on SIEM training and learning (ELKS)</p>
 <H2>Projects:</H2>
-<p></p><a href="https://github.com/bbunny27/MyWebsite">- Website Project</a></p>
-<p></p><a href="https://github.com/bbunny27/pyencryptdecrypt">- Python Encryptor and Decryptor</a></p>
+<p><a href="https://github.com/bbunny27/MyWebsite">- Website Project</a></p>
+<p><a href="https://github.com/bbunny27/pyencryptdecrypt">- Python Encryptor and Decryptor</a></p>
 <p>-Active Directory Lab</p>
 <p>-Python Packet Sniffer</p>
-<a href="https://github.com/bbunny27/MyHyprlandSetup">-Arch Linux/Hyprland Setup</a>
-<a href="https://github.com/bbunny27/HomeLabSetup">-My Homelab Diary</a>
-<a href="https://github.com/bbunny27/Simple-Python-Keylogger">-Python Keylogger</a>
+<p><a href="https://github.com/bbunny27/MyHyprlandSetup">-Arch Linux/Hyprland Setup</a></p>
+<p><a href="https://github.com/bbunny27/HomeLabSetup">-My Homelab Diary</a></p>
+<p><a href="https://github.com/bbunny27/Simple-Python-Keylogger">-Python Keylogger</a></p>
