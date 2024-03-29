@@ -10,6 +10,8 @@
 <h2>Certifications/Learning:</h2>
 <p>- Google Cybersecurity Certificate (Coursera) </p>
 <p>- Currently Studying for Comptia Security+</p>
+<h2>CTF Write-Ups</h2>
+<p><a href="https://github.com/bbunny27/MyWebsite">-JerseyCTF '24 Write-Up</a></p>
 <H2>Projects:</H2>
 <p><a href="https://github.com/bbunny27/MyWebsite">-Website Project</a></p>
 <p><a href="https://github.com/bbunny27/pyencryptdecrypt">-Python Encryptor and Decryptor</a></p>
