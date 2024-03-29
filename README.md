@@ -8,8 +8,8 @@
 <p>- Languages/skills: Python, SQL, HTML, CSS</p>
 <p>- Learning: Digital Forensics, Rust</p>
 <h2>Certifications/Learning:</h2>
-<p>- Working on my Google Cybersecurity profesional cert, then network+/sec+ next</p>
-<p>- Working on SIEM training and learning (ELKS)</p>
+<p>- Google Cybersecurity Certificate (Coursera) </p>
+<p>- Currently Studying for Comptia Security+</p>
 <H2>Projects:</H2>
 <p><a href="https://github.com/bbunny27/MyWebsite">- Website Project</a></p>
 <p><a href="https://github.com/bbunny27/pyencryptdecrypt">- Python Encryptor and Decryptor</a></p>
