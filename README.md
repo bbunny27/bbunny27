@@ -1,7 +1,7 @@
 <h1>Welcome to my page! Here's a bit about me:</h1>
 <p>- My name is Tyler. I go by bbunny27 online. he/him pronouns</p>
 <p>- Aspiring Cybersecurity Professional</p>
-<a href="https://leetcode.com/bbunny27/">My Leetcode Profile</a>
+<p>- CTF Player for the UW-W Cyberhawks</p>
 <h2>My Skills:</h2>
 <p>- Skills: Networking, Security, Troubleshooting, Communication, Problem-Solving </p>
 <p>- Applications: Windows, Linux, Ubuntu Server, Windows Server, Active Directory, Access, MySQL,  </p>
@@ -16,3 +16,5 @@
 <p><a href="https://github.com/bbunny27/NeoCitiesWebsite">-My Neocities Site Development</p>
 <p><a href="https://github.com/bbunny27/HomeLabSetup">-My Homelab Diary</a></p>
 <p><a href="https://github.com/bbunny27/Simple-Python-Keylogger">-Python Keylogger</a></p>
+<h2>External Links</h2>
+<a href="https://leetcode.com/bbunny27/">My Leetcode Profile</a>
