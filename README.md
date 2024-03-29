@@ -13,8 +13,6 @@
 <H2>Projects:</H2>
 <p><a href="https://github.com/bbunny27/MyWebsite">- Website Project</a></p>
 <p><a href="https://github.com/bbunny27/pyencryptdecrypt">- Python Encryptor and Decryptor</a></p>
-<p>-Active Directory Lab</p>
 <p><a href="https://github.com/bbunny27/NeoCitiesWebsite">-My Neocities Site Development</p>
-<p><a href="https://github.com/bbunny27/MyHyprlandSetup">-Arch Linux/Hyprland Setup</a></p>
 <p><a href="https://github.com/bbunny27/HomeLabSetup">-My Homelab Diary</a></p>
 <p><a href="https://github.com/bbunny27/Simple-Python-Keylogger">-Python Keylogger</a></p>
