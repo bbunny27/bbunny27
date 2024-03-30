@@ -20,3 +20,4 @@
 <p><a href="https://github.com/bbunny27/Simple-Python-Keylogger">-Python Keylogger</a></p>
 <h2>External Links</h2>
 <a href="https://leetcode.com/bbunny27/">My Leetcode Profile</a>
+<a href="https://www.linkedin.com/in/tylerdeal27">Connect with me</a>
