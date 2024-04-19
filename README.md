@@ -12,6 +12,7 @@
 <p>- Currently Studying for Comptia Security+</p>
 <h2>CTF Write-Ups</h2>
 <p><a href="https://github.com/bbunny27/JerseyCTF2024_WriteUps">-JerseyCTF '24 Write-Up</a></p>
+<p><a href="https://github.com/bbunny27/PicoCTFWriteUp2024">PicoCTF '24 Write-Up</p>
 <h2>External Links</h2>
 <p><a href="https://leetcode.com/bbunny27/">My Leetcode Profile</a></p>
 <p><a href="https://www.linkedin.com/in/tylerdeal27">Connect with me</a></p>
