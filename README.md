@@ -4,7 +4,7 @@
 <p>- CTF Player for the UW-W Cyberhawks</p>
 <h2>My Skills:</h2>
 <p>- Skills: Network Security, Windows and Linux Server Administration/Security, Web Server Security, Helpdesk, Python Scripting.</p>
-<p>- Applications: Azure, Windows and Linux Server, Python, HTML/CSS/Javascript, ServiceNow, Appache, Email Firewalls, OpenSense Firewall Config, Scapy. </p>
+<p>- Applications: Azure, M365 Administation Sutie, Windows Server, Appache/Linux Server, Python, HTML/CSS/Javascript, ServiceNow, Appache, Darktrace, Barracuda, OpenSense Firewall, Jira, KnowBe4, NinjaRMM, Netwrix. </p>
 <p>- Languages/skills: Python, SQL, HTML, CSS</p>
 <p>- Learning: Digital Forensics, Rust, Powershell scripting</p>
 <h2>Certifications/Learning:</h2>
