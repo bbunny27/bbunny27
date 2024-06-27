@@ -11,10 +11,34 @@
 <p>- Google Cybersecurity Certificate (Coursera) </p>
 <p>- Currently Studying for Comptia Security+</p>
 <h2>Competitions</h2>
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+<table>
+  <tr>
+    <th>Comp:</th>
+    <th>Place:</th>
+    <th>Date:</th>
+  </tr>
+  <tr>
+    <td>UW-W CTF</td>
+    <td>1st Place</td>
+    <td>4/25/2024</td>
+  </tr>
+  <tr>
+    <td>GreyCatTheFlag</td>
+    <td>Top 50%</td>
+    <td>4/20/2024</td>
+  </tr>
+  <tr>
+    <td>JerseyCTF</td>
+    <td>Top 30%</td>
+    <td>3/23/2024</td>
+  </tr>
+    <tr>
+    <td>PicoCTF</td>
+    <td>Top 40%</td>
+    <td>3/13/2024</td>
+  </tr>
+</table>
+
 <h2>CTF Write-Ups</h2>
 <p><a href="https://github.com/bbunny27/JerseyCTF2024_WriteUps">-JerseyCTF '24 Write-Up</a></p>
 <p><a href="https://github.com/bbunny27/PicoCTFWriteUp2024">-PicoCTF '24 Write-Up</p>
