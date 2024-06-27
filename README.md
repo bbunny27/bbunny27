@@ -32,10 +32,15 @@
     <td>Top 30%</td>
     <td>3/23/2024</td>
   </tr>
-    <tr>
+  <tr>
     <td>PicoCTF</td>
     <td>Top 40%</td>
     <td>3/13/2024</td>
+  </tr>
+    <tr>
+    <td>CCDC</td>
+    <td>4th Place in WI</td>
+    <td>2/18/2024</td>
   </tr>
 </table>
 
