@@ -18,6 +18,16 @@
     <th>Date:</th>
   </tr>
   <tr>
+    <td>HuntressCTF</td>
+    <td>Top 30%</td>
+    <td>10/30/2024</td>
+  </tr>
+  <tr>
+    <td>PatriotCTF</td>
+    <td>Top 50%</td>
+    <td>9/23/2024</td>
+  </tr>
+  <tr>
     <td>UW-W CTF</td>
     <td>1st Place</td>
     <td>4/25/2024</td>
