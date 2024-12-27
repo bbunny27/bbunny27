@@ -8,8 +8,8 @@
 <p>- Languages/skills: Python, SQL, HTML, CSS</p>
 <p>- Learning: Digital Forensics, Rust, Powershell scripting</p>
 <h2>Certifications/Learning:</h2>
+<p>- Microsoft Azure Fundamentals AZ900 </p>
 <p>- Google Cybersecurity Certificate (Coursera) </p>
-<p>- Currently Studying for Comptia Security+</p>
 <h2>Competitions</h2>
 <table>
   <tr>
