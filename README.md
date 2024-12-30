@@ -53,7 +53,7 @@
     <td>2/18/2024</td>
   </tr>
 </table>
-[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbunny27)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>CTF Write-Ups</h2>
 <p><a href="https://github.com/bbunny27/JerseyCTF2024_WriteUps">-JerseyCTF '24 Write-Up</a></p>
 <p><a href="https://github.com/bbunny27/PicoCTFWriteUp2024">-PicoCTF '24 Write-Up</p>
