@@ -1,5 +1,6 @@
 <h1>Welcome to my page! Here's a bit about me:</h1>
-<p>- My name is Tyler. I go by bbunny27 online. he/him pronouns</p>
+<p>- My name is Tyler. Aspiring IT/Security Professional </p>
+<p>- IT student at the University of Wisconsin-Whitewater </p>
 <p>- Information Security Intern for HDI Global SE</p>
 <p>- CTF Player for the UW-W Cyberhawks</p>
 <h2>My Skills:</h2>
