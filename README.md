@@ -1,5 +1,5 @@
 <h1>Welcome to my page! Here's a bit about me:</h1>
-<p>- My name is Tyler. I am an aspiring IT/Security professional </p>
+<p>- My name is Tyler. I'm an aspiring IT/Security professional </p>
 <p>- IT student at the University of Wisconsin-Whitewater </p>
 <p>- Information Security Intern for HDI Global SE</p>
 <p>- CTF Player for the UW-W Cyberhawks</p>
