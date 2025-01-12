@@ -7,7 +7,7 @@
 <p>- Skills: Network Security, Windows and Linux Server Administration/Security, Web Server Security, Helpdesk, Python Scripting.</p>
 <p>- Applications: Azure, M365 Administation Suite, Windows Server, Appache/Linux Server, Python, HTML/CSS/Javascript, ServiceNow, Darktrace, Barracuda, OpenSense Firewall, Jira, KnowBe4, NinjaRMM, Netwrix. </p>
 <p>- Languages/skills: Python, SQL, HTML, CSS</p>
-<p>- Learning: Digital Forensics, Rust, Powershell scripting</p>
+<p>- Learning: Powershell scripting</p>
 <h2>Certifications/Learning:</h2>
 <p>- Microsoft Azure Fundamentals AZ900 </p>
 <p>- Google Cybersecurity Certificate (Coursera) </p>
