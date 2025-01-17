@@ -9,6 +9,7 @@
 <p>- Languages/skills: Python, SQL, HTML, CSS</p>
 <p>- Learning: Powershell scripting</p>
 <h2>Certifications/Learning:</h2>
+<p>- Studying for Sec+ and Net+
 <p>- Microsoft Azure Fundamentals AZ900 </p>
 <p>- Google Cybersecurity Certificate (Coursera) </p>
 <h2>Competitions</h2>
