@@ -3,6 +3,7 @@
 <p>- IT student at the University of Wisconsin-Whitewater </p>
 <p>- Information Security Intern for HDI Global SE</p>
 <p>- CTF Player for the UW-W Cyberhawks</p>
+<p>- If you're wondering what I'm up to... I'm currently studying for my Sec+, Preparing for CCDC, and learning German!</p>
 <h2>My Skills:</h2>
 <p>- Skills: Network Security, Windows and Linux Server Administration/Security, Web Server Security, Helpdesk, Python Scripting.</p>
 <p>- Applications: Azure, M365 Administation Suite, Windows Server, Appache/Linux Server, Python, HTML/CSS/Javascript, ServiceNow, Darktrace, Barracuda, OpenSense Firewall, Jira, KnowBe4, NinjaRMM, Netwrix. </p>
