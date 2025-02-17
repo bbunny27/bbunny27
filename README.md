@@ -20,6 +20,16 @@
     <th>Place:</th>
     <th>Date:</th>
   </tr>
+    <tr>
+    <td>MWCCDC Qualifiers</td>
+    <td>2nd Place in WI</td>
+    <td>2/15/2025</td>
+  </tr>
+  <tr>
+    <td>BearcatCTF</td>
+    <td>Top 30%</td>
+    <td>2/1/2025</td>
+  </tr>
   <tr>
     <td>HuntressCTF</td>
     <td>Top 30%</td>
@@ -51,7 +61,7 @@
     <td>3/13/2024</td>
   </tr>
     <tr>
-    <td>CCDC</td>
+    <td>MWCCDC Qualifier</td>
     <td>4th Place in WI</td>
     <td>2/18/2024</td>
   </tr>
